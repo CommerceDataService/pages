@@ -1,4 +1,4 @@
-# 18F Pages
+# CDS Pages
 
 [18F Pages](https://pages.18f.gov/) is the serving host and publishing
 platform that [18F](https://18f.gsa.gov/) uses to prototype and publish many
