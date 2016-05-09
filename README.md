@@ -8,7 +8,7 @@ sites. It works very similarly to [GitHub pages](https://pages.github.com/).
 This repo contains the Jekyll source for the https://pages.cds.commerce.gov/ home page
 itself.
 
-The 18F Pages publishing server is available as the [`18f-pages-server`
+The CDS Pages publishing server is available as the [`18f-pages-server`
 npm](https://www.npmjs.com/package/18f-pages-server), the code for which
 resides in the [18F/pages-server
 repository](https://github.com/18F/pages-server/). Complete details on the
