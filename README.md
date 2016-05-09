@@ -10,8 +10,8 @@ itself.
 
 The CDS Pages publishing server is available as the [`18f-pages-server`
 npm](https://www.npmjs.com/package/18f-pages-server), the code for which
-resides in the [18F/pages-server
-repository](https://github.com/18F/pages-server/). Complete details on the
+resides in the [CommerceDataService/pages-server
+repository](https://github.com/CommerceDataService/pages-server/). Complete details on the
 publishing mechanism and server installation, configuration, and
 administration are available in the README posted on both of those pages.
 
