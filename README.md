@@ -1,7 +1,7 @@
 # CDS Pages
 
 [CDS Pages](http://pages.cds.commerce.gov/) is the serving host and publishing
-platform that [18F](https://18f.gsa.gov/) uses to prototype and publish many
+platform that [CDS](https://www.commerce.gov/dataservice/) uses to prototype and publish many
 of its [Jekyll](http://jekyllrb.com/)-based and other statically-generated web
 sites. It works very similarly to [GitHub pages](https://pages.github.com/).
 
