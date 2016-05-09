@@ -5,7 +5,7 @@ platform that [CDS](https://www.commerce.gov/dataservice/) uses to prototype and
 of its [Jekyll](http://jekyllrb.com/)-based and other statically-generated web
 sites. It works very similarly to [GitHub pages](https://pages.github.com/).
 
-This repo contains the Jekyll source for the https://pages.18f.gov/ home page
+This repo contains the Jekyll source for the https://pages.cds.commerce.gov/ home page
 itself.
 
 The 18F Pages publishing server is available as the [`18f-pages-server`
